@@ -31,3 +31,7 @@ A shell is a user interface that allows access to an operating system's services
 -help = find info about commands
 
 # 1.4 Forking and Cloning Reflection
+Hi new GitHub user. To create a new repository please navigate to your github.com profile. At the top right of the window you should see a “+” between the notification bell and your avatar. Click the “+” and select “new repository.” On the new repository page, choose a name, select whether you would like it to be public or private, and add a license if you have one then click “Create repository.”
+To fork a repository means to create a separate, distinct copy of the repo on your own GitHub account. Forking is more useful than creating a new repository if you find an interesting repo that you’d like to work on. From the USERNAME/FORKED_REPO page, click “Fork,” found below your avatar, next to the star button. You can tell if the repo was successfully forked if your username precedes the repository name.
+To clone a repository locally (to copy it onto your computer) open up your terminal, navigate to the appropriate directory (e.g. phase-0). Next, go back to your github account and copy the HTTP URL of your Forked repo to your clipboard. Return to the terminal and write > git clone URL_THAT_YOU_COPIED.
+I’ve found the combinations of videos and written instructions/explanations really helpful in understanding the differences between git and GitHub and their applications.
